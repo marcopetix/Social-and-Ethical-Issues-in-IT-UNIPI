@@ -8,7 +8,7 @@ In this folder you can find:
 - [Self-delusion and (the conscious exploitment of) Anthropomorphism](https://github.com/marcopetix/Social-and-Ethical-Issues-in-IT-UNIPI/blob/main/Self-delusion%20and%20(the%20conscious%20exploitment%20of)%20Anthropomorphism.pdf) - A brief presentation about the use of anthropomorphism in IT and robotics.
 
 ## Further informations
-Final grade: 30 cum laude/30
+Final grade: 30/30, cum laude
 
 ## Course Topics:
 - Information technologies, purposeful behavior and intelligence;
